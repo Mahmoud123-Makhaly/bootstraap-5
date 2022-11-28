@@ -1,0 +1,14 @@
+ms-auto >> margin-start-auto يحرك العنصر من اقصي الشمال الي اقصي اليمين
+text-center>> make text in center
+text-light>> make text white
+text-start >>يجعل النص بيبدأ من الشمال 
+text-sm-start>>يجعل النص يبدأ من الشمال بداية من الشمال 
+py-5 >>padding top and bottom
+my-5 >>margin top and bottom
+d-flex 
+d-sm-flex>>start from small screen
+aligh-items-center 
+justify-content-center / justify-content-between
+text-warning>>change text-color
+<button class="btn btn-primary btn-lg">
+ <img class="w-50 d-none d-sm-block" src="images/showcase.svg">>>width=50%
